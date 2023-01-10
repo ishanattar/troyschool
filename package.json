@@ -1,0 +1,27 @@
+{
+  "name": "troyschool",
+  "version": "1.0.0",
+  "description": "Webportal for my school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishanattar/troyschool.git"
+  },
+  "keywords": [
+    "troy",
+    "school"
+  ],
+  "author": "ishanattar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishanattar/troyschool/issues"
+  },
+  "homepage": "https://github.com/ishanattar/troyschool#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "react": "latest"
+  }
+}
